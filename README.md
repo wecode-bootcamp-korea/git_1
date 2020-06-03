@@ -2,16 +2,16 @@
       <tbody>
         <tr>
           <td>이름</td>
+          <td>이유진</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이유진</td>
         </tr>
         <tr>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
+          <td>이유진</td>
           <td>이름</td>
         </tr>
       </tbody>
