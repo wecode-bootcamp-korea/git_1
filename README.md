@@ -1,10 +1,10 @@
 <table>
       <tbody>
         <tr>
+          <td>한수민</td>
+          <td>한수민</td>
+          <td>한수민</td>
           <td>문성원</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
           <td>이름</td>
         </tr>
         <tr>
