@@ -1,7 +1,7 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
+          <td>문성원</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
