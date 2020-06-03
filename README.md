@@ -11,8 +11,8 @@
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이한별</td>
+          <td>이한별</td>
         </tr>
       </tbody>
 </table>
