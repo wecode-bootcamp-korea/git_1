@@ -3,16 +3,16 @@
         <tr>
           <td>한수민</td>
           <td>한수민</td>
-          <td>한수민</td>
-          <td>문성원</td>
           <td>이름</td>
+          <td>문성원</td>
+          <td>박지훈</td>
         </tr>
         <tr>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>이한별</td>
+          <td>이한별</td>
         </tr>
       </tbody>
 </table>
