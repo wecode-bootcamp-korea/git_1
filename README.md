@@ -1,18 +1,31 @@
 <table>
       <tbody>
         <tr>
+<<<<<<< HEAD
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
           <td>이름</td>
           <td>이유진</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이유진</td>
+=======
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+>>>>>>> bed36feeb0079b656c6e36645e5b8a217a6a6474
         </tr>
         <tr>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
-          <td>이유진</td>
+<<<<<<< HEAD
           <td>이름</td>
+          <td>이름</td>
+=======
+          <td>이한별</td>
+          <td>이한별</td>
+>>>>>>> bed36feeb0079b656c6e36645e5b8a217a6a6474
         </tr>
       </tbody>
 </table>
