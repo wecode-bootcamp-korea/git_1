@@ -8,11 +8,11 @@
           <td>이재준</td>
         </tr>
         <tr>
-          <td>박지훈</td>
-          <td>박지훈</td>
-          <td>박지훈</td>
-          <td>이재준</td>
-          <td>이재준</td>
+          <td>김동건/td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
         </tr>
       </tbody>
 </table>
